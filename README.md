@@ -9,6 +9,7 @@ A resource for testing web apps
 
 ### Methodologies
 - [The RITE way - Eric Elliot](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3)
+- [Specification By Example](https://en.wikipedia.org/wiki/Specification_by_example)
 
 ### General JavaScript Test Runner Frameworks
 - Mocha
@@ -37,3 +38,6 @@ A resource for testing web apps
 ### Mocking
 - Sinon
 - Mockery
+
+## Resources
+- [Software Testing Fundamentals](http://softwaretestingfundamentals.com/regression-testing/)
